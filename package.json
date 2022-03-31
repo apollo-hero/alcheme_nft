@@ -1,0 +1,28 @@
+{
+  "name": "alcheme_nft",
+  "version": "1.0.0",
+  "description": "my first nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenStar71/alcheme_nft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenStar71/alcheme_nft/issues"
+  },
+  "homepage": "https://github.com/GoldenStar71/alcheme_nft#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.9.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0"
+  }
+}
